@@ -47,13 +47,6 @@
 -->
 
 
-## 📊 _GitHub Stats:_
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"   style="min-width: 200px">
-</div>
-<!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 
 ### 🔝 Top Contributed Repo
 
